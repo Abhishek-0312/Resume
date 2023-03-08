@@ -40,7 +40,7 @@ a {
 }
 .item_preTitle {
 	font-size: 1.4rem;
-	color: var(--text-color);
+	color: #00FFFF;
 	font-weight: 300;
 }
 .item_title {
